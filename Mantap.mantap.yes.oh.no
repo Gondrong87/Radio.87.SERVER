@@ -19,4 +19,4 @@
 <nama server="RADIO CINTA KITA" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="mb.puma-network.net" port="53205" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
 <nama server="NGOBROL SANTAI" ca="0" continent_code="ID" country="INDONESIA" country_code="ID" ip="mb.puma-network.net" port="51338" region="Jakarta Raya" url="https://radio.nasional.online"/>
 <server name="RAKOMWAR" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="mb.puma-network.net" port="52272" region="Jakarta Raya" url ="https://radioputra.romzi.online/"/> token="null"/> 
-</server>
+
